@@ -20,19 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto: Desbravando a IA Generativa: Um guia descomplicado para iniciantes ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Com uma linguagem simples, resumida e objetiva, este Ebook tem como objetivo trazer iformações pra quem está dando os primeiros passos da IA. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gemini - Utilizado para desenvolver o contéudo textual.
+Copiloto - Criação de imagens do Ebook.
+Indesign - Edição do ebook e conversão em PDF
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o Gemini  a IA da google, para me ajudar a elaborar e desenvolver os tópicos do ebook, e o Copiloto da Microsoft para geração de imagens para capa e das páginas.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os resultados foram muito satisfatório, pois com o uso da IA, tive ganho de tempo e prodtividade, além de adquirir mais conhecimento do assunto relativo a IA e seu uso diário.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
